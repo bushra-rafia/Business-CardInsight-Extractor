@@ -33,3 +33,4 @@ Gemini - https://deepmind.google/technologies/gemini/#introduction
 Generate an API KEY from here: https://ai.google.dev/
 Gemini API documentation: https://ai.google.dev/docs
 
+Business-CardInsight-Extractor-with-Gemini-LLM
