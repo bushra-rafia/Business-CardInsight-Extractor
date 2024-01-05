@@ -1,2 +1,2 @@
-# Invoice-Extractor-with-Gemini-LLM
-Invoice-Extractor-with-Gemini-LLM
+# Business-CardInsight-Extractor-with-Gemini-LLM
+Business-CardInsight-Extractor-with-Gemini-LLM
