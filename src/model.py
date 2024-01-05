@@ -41,12 +41,12 @@ def input_image_setup(uploaded_file):
 
 # initialize our streamlit app
 st.set_page_config(page_title="Gemini Business CardInsight Extractor")
-st.header("Gemini Application")
+st.header("Gemini Business CardInsight Application")
 # text box
 input = st.text_input("Input Prompt: ",key="input")
 # update a file
 uploaded_file = st.file_uploader("Select an image...", type=["jpg", "jpeg", "png"])
-image=""   
+image = ""
 
 
 if uploaded_file is not None:
